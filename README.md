@@ -29,13 +29,13 @@ window.ipfs_gateway 发布成功后默认跳转的ipfs网关
 
 # 样例
 
-cid：QmTCrcy5gE85cwqQf2UdcYpjMb7PrWKqBBcAuHoCwcGXZ6
+cid：QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA
 
-[blockframe](https://ipfs.blockframe.io/ipfs/QmTCrcy5gE85cwqQf2UdcYpjMb7PrWKqBBcAuHoCwcGXZ6/#cdn.ipfsscan.io)
+[blockframe](https://ipfs.blockframe.io/ipfs/QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA/#cdn.ipfsscan.io)
 
-[ipfs.io](https://ipfs.io/ipfs/QmTCrcy5gE85cwqQf2UdcYpjMb7PrWKqBBcAuHoCwcGXZ6/#cdn.ipfsscan.io)
+[ipfs.io](https://ipfs.io/ipfs/QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA/#cdn.ipfsscan.io)
 
-你也可以自己下载ipfs-desktop ，访问 http://127.0.0.1:8080/ipfs/QmTCrcy5gE85cwqQf2UdcYpjMb7PrWKqBBcAuHoCwcGXZ6/
+你也可以自己下载ipfs-desktop ，访问 http://127.0.0.1:8080/ipfs/QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA/
 
 ## Thanks
  * http://telegra.ph
