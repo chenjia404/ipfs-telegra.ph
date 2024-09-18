@@ -4,7 +4,7 @@
 用于将数据发布到 IPFS 网络的极简发布工具。
 ui克隆来自 [Telegra.ph](http://telegra.ph)
 
-在输入文章标题和作者姓名之后，用户即可随意创作。我们发布文章之后，就能够获得这篇文章的独立网址。我们只需要将上面获得的文章链接发送给好友，就能够在浏览器打开文章来阅读。
+在输入文章标题和昵称之后，用户即可随意创作，并且支持图文、gif、视频内容。我们发布文章之后，就能够获得这篇文章的独立网址。我们只需要将上面获得的文章链接发送给好友，就能够在浏览器打开文章来阅读。
 
 # 特点
 * 操作简洁
@@ -31,9 +31,17 @@ window.ipfs_gateway 发布成功后默认跳转的ipfs网关
 
 cid：QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA
 
-[blockframe](https://ipfs.blockframe.io/ipfs/QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA/#cdn.ipfsscan.io)
+[crossbell](https://ipfs.crossbell.io/ipfs/QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA/#cdn.ipfsscan.io)
+
+[eth.sucks](https://eth.sucks/ipfs/QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA/#cdn.ipfsscan.io)
+
+[img2ipfs](https://gateway.img2ipfs.com/ipfs/QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA/#cdn.ipfsscan.io)
+
+[ipfsscan](https://gateway.ipfsscan.com/ipfs/QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA/#cdn.ipfsscan.io)
 
 [ipfs.io](https://ipfs.io/ipfs/QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA/#cdn.ipfsscan.io)
+
+任意一个ipfs网关都可以使用。
 
 你也可以自己下载ipfs-desktop ，访问 http://127.0.0.1:8080/ipfs/QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA/
 
