@@ -31,7 +31,13 @@ window.ipfs_gateway 发布成功后默认跳转的ipfs网关
 
 cid：QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA
 
-[blockframe](https://ipfs.blockframe.io/ipfs/QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA/#cdn.ipfsscan.io)
+[crossbell](https://ipfs.crossbell.io/ipfs/QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA/#cdn.ipfsscan.io)
+
+[eth.sucks](https://eth.sucks/ipfs/QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA/#cdn.ipfsscan.io)
+
+[img2ipfs](https://gateway.img2ipfs.com/ipfs/QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA/#cdn.ipfsscan.io)
+
+[ipfsscan](https://gateway.ipfsscan.com/ipfs/QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA/#cdn.ipfsscan.io)
 
 [ipfs.io](https://ipfs.io/ipfs/QmTJGLkgQujN8Wqx5kX1Eotyiqx7bAaTgcoDnsK6CV81LA/#cdn.ipfsscan.io)
 
