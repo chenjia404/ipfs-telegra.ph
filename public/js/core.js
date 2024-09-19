@@ -1831,8 +1831,28 @@ $embed_button.click(function(e) {
   }
 });
 
-$publish_button.click(function() {
-  savePage();
+$publish_button.click(function () {
+  const formData = new FormData();
+  formData.append('file', "test");
+  let api = '//' + window.api_host + '/api/v0/add';
+  $.ajax({
+    url: api,
+    type: 'POST',
+    data: formData,
+    processData: false,
+    contentType: false,
+    success: function (res) {
+      if (res.Hash == 'QmRf22bZar3WKmojipms22PkXH1MZGmvsqzQtuSvQE3uhm') {
+        savePage();
+      } else {
+        console.error('上传失败');
+      }
+    },
+    error: function () {
+      console.error('请求失败');
+    }
+  });
+
 });
 
 $edit_button.click(function() {
