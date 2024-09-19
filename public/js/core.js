@@ -220,7 +220,6 @@ class FigureBlot extends BlockEmbed {
     this.domCursor.setAttribute('contenteditable', 'true');
 
     this.domCaption.classList.add('editable_text');
-    this.domCaption.setAttribute('data-placeholder', 'Caption (optional)');
     if (value.caption) {
       this.domCaption.innerText = value.caption;
     }
@@ -1558,6 +1557,7 @@ function updateEditableText(context, is_edit) {
         input.classList.add('editable_input');
         input.setAttribute('tabindex', '-1');
         input.setAttribute('rows', '1');
+        input.setAttribute('placeholder', 'Caption (optional)');
         input.value = value;
         if (!value) {
           this.classList.add('empty');
