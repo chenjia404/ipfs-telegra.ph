@@ -1,10 +1,10 @@
 
 # ⚛ IPFS telegra.ph clone
 
-用于将数据发布到 IPFS 网络的极简发布工具。
+一个在ipfs上写文章的极简发布工具。
 ui克隆来自 [Telegra.ph](http://telegra.ph)
 
-在输入文章标题和昵称之后，用户即可随意创作，并且支持图文、gif、视频内容。我们发布文章之后，就能够获得这篇文章的独立网址。我们只需要将上面获得的文章链接发送给好友，就能够在浏览器打开文章来阅读。
+在输入文章标题和昵称之后，用户即可随意创作，并且支持图文、gif、视频内容，所有数据都保存在ipfs上。我们发布文章之后，就能够获得这篇文章的独立网址。我们只需要将上面获得的文章链接发送给好友，就能够在浏览器打开文章来阅读。
 
 技术原理：https://ipfs.io/ipfs/QmPop46rv7m8LkxJK2Ar75Awy8gWBdkwrrkoEguMbGcPmo/
 
@@ -14,6 +14,7 @@ ui克隆来自 [Telegra.ph](http://telegra.ph)
 * 无需登陆
 * 支持图片、gif、mp4即时插入并预览
 * 支持 Youtube 、Vimeo 外链和预览
+* 支持粘贴markdown链接、图片格式
 
 # 部署 
 
