@@ -1364,7 +1364,7 @@ function savePage() {
     if (!err && datahash) {
       draftClear();
       $tl_article.addClass('tl_article_editable');
-      window.open(window.ipfs_gateway + '/ipfs/'+datahash+'/', "_blank");
+      window.open(window.ipfs_gateway + '/'+datahash+'/', "_blank");
 
     }
 

@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function(){
 	
 	window.ipfs_gateway = urlarr.join('/')
 	if (window.ipfs_gateway.length < 10) {
-		window.ipfs_gateway = 'https://ipfs.io'
+		window.ipfs_gateway = 'https://ipfs.io/ipfs'
 	}
 
 	window.api_host = "localhost:5001"
