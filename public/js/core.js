@@ -1832,8 +1832,10 @@ $embed_button.click(function(e) {
 });
 
 $publish_button.click(function () {
+  
+  const blob = new Blob(["test"], { type: 'plain/text' });
   const formData = new FormData();
-  formData.append('file', "test");
+  formData.append('file', blob);
   let api = '//' + window.api_host + '/api/v0/add';
   $.ajax({
     url: api,
