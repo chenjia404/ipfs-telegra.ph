@@ -46,21 +46,21 @@ window.ipfs_gateway 发布成功后默认跳转的ipfs网关
 
 # 样例
 
-cid：QmVut84B4DK1ziVkfVrfR7HtowwogaE8LWq3unMbr1bbRd
+cid：QmPQPxcdTMyDTdubjjXYDMKK4ThAMK4E5a5sG1EGpJWYAa
 
-[crossbell](https://ipfs.crossbell.io/ipfs/QmVut84B4DK1ziVkfVrfR7HtowwogaE8LWq3unMbr1bbRd/#cdn.ipfsscan.io)
+[crossbell](https://ipfs.crossbell.io/ipfs/QmPQPxcdTMyDTdubjjXYDMKK4ThAMK4E5a5sG1EGpJWYAa/#cdn.ipfsscan.io)
 
-[eth.sucks](https://eth.sucks/ipfs/QmVut84B4DK1ziVkfVrfR7HtowwogaE8LWq3unMbr1bbRd/#cdn.ipfsscan.io)
+[eth.sucks](https://eth.sucks/ipfs/QmPQPxcdTMyDTdubjjXYDMKK4ThAMK4E5a5sG1EGpJWYAa/#cdn.ipfsscan.io)
 
-[img2ipfs](https://gateway.img2ipfs.com/ipfs/QmVut84B4DK1ziVkfVrfR7HtowwogaE8LWq3unMbr1bbRd/#cdn.ipfsscan.io)
+[img2ipfs](https://gateway.img2ipfs.com/ipfs/QmPQPxcdTMyDTdubjjXYDMKK4ThAMK4E5a5sG1EGpJWYAa/#cdn.ipfsscan.io)
 
-[ipfsscan](https://gateway.ipfsscan.com/ipfs/QmVut84B4DK1ziVkfVrfR7HtowwogaE8LWq3unMbr1bbRd/#cdn.ipfsscan.io)
+[ipfsscan](https://gateway.ipfsscan.com/ipfs/QmPQPxcdTMyDTdubjjXYDMKK4ThAMK4E5a5sG1EGpJWYAa/#cdn.ipfsscan.io)
 
-[ipfs.io](https://ipfs.io/ipfs/QmVut84B4DK1ziVkfVrfR7HtowwogaE8LWq3unMbr1bbRd/#cdn.ipfsscan.io)
+[ipfs.io](https://ipfs.io/ipfs/QmPQPxcdTMyDTdubjjXYDMKK4ThAMK4E5a5sG1EGpJWYAa/#cdn.ipfsscan.io)
 
 任意一个ipfs网关都可以使用。
 
-你也可以自己下载ipfs-desktop ，访问 http://127.0.0.1:8080/ipfs/QmVut84B4DK1ziVkfVrfR7HtowwogaE8LWq3unMbr1bbRd/
+你也可以自己下载ipfs-desktop ，访问 http://127.0.0.1:8080/ipfs/QmPQPxcdTMyDTdubjjXYDMKK4ThAMK4E5a5sG1EGpJWYAa/
 
 ## Thanks
  * http://telegra.ph
