@@ -734,7 +734,7 @@ body.mobile .button_hover {
 .tl_article .tl_article_content .figure_wrapper video {
   opacity: 1;
   transition: opacity .15s ease;
-  max-height: 690px;
+  max-width: 100%;
 }
 .tl_article .tl_article_content .figure_wrapper.loading img,
 .tl_article .tl_article_content .figure_wrapper.loading video {
