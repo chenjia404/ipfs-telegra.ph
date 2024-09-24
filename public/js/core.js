@@ -1363,6 +1363,7 @@ function savePage() {
     if (!err && datahash) {
       draftClear();
       $tl_article.addClass('tl_article_editable');
+      alert("即将在新窗口打开发布成功的页面，请复制新窗口链接给好友");
       window.open(window.ipfs_gateway + '/'+datahash+'/', "_blank");
 
     }
