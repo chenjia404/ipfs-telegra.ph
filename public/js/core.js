@@ -31,7 +31,7 @@ let Parchment  = Quill.import('parchment');
 let Delta      = Quill.import('delta');
 let Keyboard   = Quill.import('modules/keyboard');
 
-var gateways = ['https://ipfs.blockframe.io','https://ipfs.crossbell.io','https://4everland.io','https://polygon.stampsdaq.com','https://ipfs.supremelegend.io','https://ipfs.decentralized-content.com','https://gateway.pinata.cloud','https://eth.sucks','https://hardbin.com','https://gw.ipfs-lens.dev','https://gateway.v2ex.pro','https://gateway.tar.tn'];
+var gateways = ['https://ipfs.io','https://flk-ipfs.xyz','https://ipfs.crossbell.io','https://4everland.io','https://polygon.stampsdaq.com','https://ipfs.supremelegend.io','https://ipfs.decentralized-content.com','https://gateway.pinata.cloud','https://eth.sucks','https://hardbin.com','https://gw.ipfs-lens.dev','https://gateway.v2ex.pro','https://gateway.tar.tn'];
 function seeding(res){
     for(var i0 = 0; i0 < gateways.length; i0++)
     {
