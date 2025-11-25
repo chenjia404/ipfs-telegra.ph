@@ -676,7 +676,6 @@ body.mobile .button_hover {
 }
 .tl_article .tl_article_content ul li:before {
   padding: 1px 15px 0 0;
-  content: 'вЂў';
 }
 .tl_article .tl_article_content ol li:before {
   font-feature-settings: 'liga' on, 'lnum' on;
